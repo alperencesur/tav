@@ -1,0 +1,18 @@
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "12T-l8-TfV"; */
+"12T-l8-TfV.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Uçuş Tarihi"; ObjectID = "HLa-RP-ZLp"; */
+"HLa-RP-ZLp.placeholder" = "Uçuş Tarihi";
+
+/* Class = "UILabel"; text = "Uçuş tarihinizi giriniz.(Örnek: 14/04/2018)"; ObjectID = "Kzo-H4-b0k"; */
+"Kzo-H4-b0k.text" = "Uçuş tarihinizi giriniz.(Örnek: 14/04/2018)";
+
+/* Class = "UILabel"; text = "Uçuş Numarınızı giriniz.(Örnek: TK3435)"; ObjectID = "bL3-dh-RRe"; */
+"bL3-dh-RRe.text" = "Uçuş Numarınızı giriniz.(Örnek: TK3435)";
+
+/* Class = "UITextField"; placeholder = "Uçuş no"; ObjectID = "mZj-Kw-r5C"; */
+"mZj-Kw-r5C.placeholder" = "Uçuş no";
+
+/* Class = "UIButton"; normalTitle = "Tamam"; ObjectID = "tHf-sv-imx"; */
+"tHf-sv-imx.normalTitle" = "Tamam";
